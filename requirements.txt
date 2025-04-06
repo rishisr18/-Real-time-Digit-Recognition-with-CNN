@@ -5,3 +5,4 @@ matplotlib
 Pillow
 scikit-learn
 streamlit-drawable-canvas
+opencv-python-headless
